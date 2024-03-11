@@ -1,2 +1,10 @@
+:root{
+--roxo: #faebd7;
+}
+
+
+
+
+
 body {
-    background-color:antiquewhite
+    background-color:var(--roxo);
