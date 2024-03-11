@@ -1,5 +1,5 @@
 :root{
---roxo: #faebd7;
+--antiquewhite: #faebd7;
 }
 
 
@@ -7,4 +7,6 @@
 
 
 body {
-    background-color:var(--roxo);
+    background-color:var(--antiquewhite);
+
+}
