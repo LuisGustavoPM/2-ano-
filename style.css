@@ -9,4 +9,8 @@
 body {
     background-color:var(--antiquewhite);
 
+
+    img{
+     width: 20%;
+    }
 }
