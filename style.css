@@ -1,5 +1,5 @@
-:root{
---antiquewhite: #faebd7;
+:root {
+    --antiquewhite: #faebd7;
 }
 
 
@@ -7,10 +7,9 @@
 
 
 body {
-    background-color:var(--antiquewhite);
+    background-color: var(--antiquewhite);
+}
 
-
-    img{
-     width: 10%;
-    }
-    }
+img {
+    width: 10%;
+}
