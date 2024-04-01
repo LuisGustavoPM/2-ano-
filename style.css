@@ -1,6 +1,6 @@
 :root {
     --antiquewhite: #faebd7;
-    --roxo: #ffca09;
+    --amarelo: #ffca09;
 
 }
 
@@ -24,6 +24,7 @@ header{
 
 #Quem-somos{
     display: flex;
+    background-color: var(--amarelo);
 }
 .img-intro{
     width: 60%;
