@@ -20,6 +20,9 @@ header{
     justify-content: space-around;
 }
 
-section {
+#Quem-somos{
     display: flex;
+}
+.img-intro{
+    width: 60%;
 }
