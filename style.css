@@ -43,21 +43,21 @@ text-align: center;
 
 .Fotos{
     display: grid;
-    grid-template-columns: 15% 15% 15% 55%;
+    grid-template-columns: 20% 20% 20% 40%;
 
 }
 
 .Integrante-1{
-    width: 15%;
+    width: 20%;
 }
 
 .Integrante-2{
-    width: 15%;
+    width: 20%;
 }
 .Integrante-3{
-    width: 15%;
+    width: 20%;
 }
 
 .img-empresa{
-    width: 55%;
+    width: 40%;
 }
