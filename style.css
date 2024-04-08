@@ -36,3 +36,13 @@ header{
 .img-intro{
     width: 60%;
 }
+
+.equipe{  
+text-align: center;
+}
+
+.fotos{
+    display: grid;
+    grid-template-columns: 15% 15% 15% 55%;
+
+}
