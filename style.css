@@ -47,17 +47,10 @@ text-align: center;
 
 }
 
-.Integrante-1{
-    width: 20%;
-}
-
-.Integrante-2{
-    width: 20%;
-}
-.Integrante-3{
-    width: 20%;
+.Integrante{
+    width: 55%;
 }
 
 .img-empresa{
-    width: 40%;
+    width: 100%;
 }
