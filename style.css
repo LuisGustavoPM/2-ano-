@@ -57,3 +57,8 @@ text-align: center;
 footer{
     background-color: #eedfbe;
 }
+
+a{
+    color: black;
+    text-decoration: none;
+}
