@@ -24,11 +24,6 @@ header{
 
 #Quem-somos{
     display: flex;
-    background-color: var(--amarelo);
-    border-radius: 34px;
-    border-style: solid;
-    border-width: 30px;
-    border: dashed 3px black;
     margin: 20px;
     padding: 10px;
 }
