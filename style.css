@@ -28,8 +28,12 @@ header{
     padding: 10px;
 }
 
-.img-intro{
-    width: 60%;
+#Produtos{
+    display: flex;
+}
+
+#Contatos{
+     display: flex;
 }
 
 .equipe{  
