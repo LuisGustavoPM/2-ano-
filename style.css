@@ -35,7 +35,7 @@ text-align: center;
 
 .Fotos{
     display: flex;
-    grid-template-columns: 25%, 20%, 20% 40%;
+    grid-template-columns: 20%, 20%, 20% 40%;
 }
 
 .Integrante{
