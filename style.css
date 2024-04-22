@@ -41,7 +41,7 @@ text-align: center;
 }
 
 .Fotos{
-    display: flex;
+    display: grid;
     grid-template-columns: 20%, 20%, 20% 40%;
     align-items: center;
     justify-content: space-around;
