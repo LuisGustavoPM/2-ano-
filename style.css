@@ -54,6 +54,13 @@ text-align: center;
     width: 70%;
 }
 
+.calçados{
+    display: flex;
+    grid-template-columns: 12.5%, 12.5%, 12.5%, 12.5%, 12.5%, 12.5%, 12.5%, 12.5%;
+
+ .tênis{
+    width: 20%;
+ }   
 footer{
     background-color: #eedfbe;
 }
