@@ -38,15 +38,7 @@ text-align: center;
     grid-template-columns: 20%, 20%, 20% 40%;
 }
 
-.Integrante1{
-    width: 30%;
-}
-
-.Integrante2{
-    width: 30%;
-}
-
-.Integrante3{
+.Integrante{
     width: 30%;
 }
 
@@ -59,7 +51,7 @@ text-align: center;
     grid-template-columns: 12.5%, 12.5%, 12.5%, 12.5%, 12.5%, 12.5%, 12.5%, 12.5%;
 
 .tênis{  
-    width: 20%;
+    width: 50%;
  } 
 
 footer{
@@ -69,4 +61,5 @@ footer{
 a{
     color: rgb(0, 0, 0);
     text-decoration: none;
+}
 }
