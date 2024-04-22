@@ -4,17 +4,10 @@
 
 }
 
-
-
-
-
 body {
     background-color: var(--antiquewhite);
 }
 
-img {
-    width: 30%;
-}
 
 header{
     display: flex;
@@ -41,12 +34,8 @@ text-align: center;
 }
 
 .Fotos{
-    display: grid;
     display: flex;
     grid-template-columns: 20%, 20%, 20% 40%;
-    align-items: center;
-    justify-content: space-around;
-
 }
 
 .Integrante1{
