@@ -49,6 +49,7 @@ text-align: center;
 #calçados{
     display: flex;
     grid-template-columns: 12.5%, 12.5%, 12.5%, 12.5%, 12.5%, 12.5%, 12.5%, 12.5%;
+    justify-content: space-around;
 
 .tênis{  
     width: 100%;
