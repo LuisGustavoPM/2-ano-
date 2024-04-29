@@ -15,10 +15,16 @@ header{
     justify-content: space-around;
 }
 
+.ligacao{
+    margin: 5%;
+    border: solid 15px #B9EFE5; 
+}
+
 #Quem-somos{
     display: flex;
     margin: 20px;
     padding: 10px;
+
 }
 
 .equipe{  
