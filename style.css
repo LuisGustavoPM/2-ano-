@@ -35,11 +35,11 @@ text-align: center;
 
 .Fotos{
     display: grid;
-    grid-template-columns: 20%, 20%, 20% 40%;
+    grid-template-columns: 20% 20% 20% 40%;
 }
 
 .Integrante{
-    width: 100%;
+    width: 50%;
 }
 
 .img-empresa{
@@ -48,7 +48,7 @@ text-align: center;
 
 #calçados{
     display: grid;
-    grid-template-columns: 12.5%, 12.5%, 12.5%, 12.5%, 12.5%, 12.5%, 12.5%, 12.5%;
+    grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
     justify-content: space-around;
 
 .tenis{  
