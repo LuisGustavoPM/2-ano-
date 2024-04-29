@@ -9,60 +9,60 @@ body {
 }
 
 
-header{
+header {
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
 
-.ligacao{
+.ligacao {
     margin: 5%;
-    border: solid 15px #B9EFE5; 
+    border: solid 15px #B9EFE5;
 }
 
-#Quem-somos{
+#Quem-somos {
     display: flex;
     margin: 20px;
     padding: 10px;
 
 }
 
-.equipe{  
-text-align: center;
+.equipe {
+    text-align: center;
 }
 
-.Fotos{
+.Fotos {
     display: grid;
     grid-template-columns: 15% 15% 15% 55%;
 }
 
-.Integrante{
+.Integrante {
     width: 50%;
 }
 
-.img-empresa{
+.img-empresa {
     width: 70%;
 }
 
-#calçados{
+#calçados {
     display: grid;
     grid-template-columns: 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28%;
     justify-content: space-around;
 
+}
 
-.tenis{  
+.tenis {
     width: 60%;
     margin: 5%;
     border: solid 15px #D9D9D9;
 
- } 
+}
 
-footer{
+footer {
     background-color: #eedfbe;
 }
 
-header a{
+header a {
     color: rgb(0, 0, 0);
     text-decoration: none;
-}
 }
