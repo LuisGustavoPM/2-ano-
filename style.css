@@ -34,7 +34,7 @@ text-align: center;
 }
 
 .Fotos{
-    display: flex;
+    display: grid;
     grid-template-columns: 20%, 20%, 20% 40%;
 }
 
@@ -47,11 +47,11 @@ text-align: center;
 }
 
 #calçados{
-    display: flex;
+    display: grid;
     grid-template-columns: 12.5%, 12.5%, 12.5%, 12.5%, 12.5%, 12.5%, 12.5%, 12.5%;
     justify-content: space-around;
 
-.tênis{  
+.tenis{  
     width: 100%;
  } 
 
