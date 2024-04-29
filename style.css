@@ -21,14 +21,6 @@ header{
     padding: 10px;
 }
 
-#Produtos{
-    display: flex;
-}
-
-#Contatos{
-     display: flex;
-}
-
 .equipe{  
 text-align: center;
 }
