@@ -43,6 +43,8 @@ text-align: center;
     grid-template-columns: 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28%;
     justify-content: space-around;
     margin: 5%;
+    border: solid 15px #D9D9D9;
+
 
 .tenis{  
     width: 60%;
