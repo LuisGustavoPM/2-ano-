@@ -113,5 +113,6 @@ header a {
 .produto{
     font-family: "IBM Plex Serif", serif;
     font-weight: 500;
-    font-style: normal;
+    font-style: normal; 
+    margin-right: 20px;
 }
