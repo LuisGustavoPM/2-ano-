@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Mukta+Malar:wght@200;300;400;500;600;700;800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Krub:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Mukta+Malar:wght@200;300;400;500;600;700;800&display=swap');
+
 :root {
     --antiquewhite: #faebd7;
     --amarelo: #796a36;
@@ -17,14 +18,17 @@ header {
     justify-content: space-around;
 }
 
-.Titulo{ font-family: "Mukta Malar", sans-serif;
+.Titulo {
+    font-family: "Mukta Malar", sans-serif;
     font-weight: 400;
     font-style: normal;
-font-size: 100px;}
+    font-size: 100px;
+    margin: 0;
+}
 
 .azul {
-   background-color: #B9EFE5;
-   padding: 11px;
+    background-color: #B9EFE5;
+    padding: 11px;
 }
 
 #Quem-somos {
@@ -72,4 +76,9 @@ footer {
 header a {
     color: rgb(0, 0, 0);
     text-decoration: none;
+}
+
+.lado{
+    display: flex;
+    align-items: center;
 }
