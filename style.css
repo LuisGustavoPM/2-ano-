@@ -71,6 +71,8 @@ header {
 
 footer {
     background-color: #eedfbe;
+    display: grid;
+    grid-template-columns: 70% 30%;
 }
 
 header a {
@@ -85,4 +87,14 @@ header a {
 
 .sub{
     margin-top: 10px;
+}
+
+.logo{
+    display: flex;
+    align-items: flex-end;
+}
+
+.texto{
+    margin-left: -133px;
+    margin-bottom: 59px;
 }
